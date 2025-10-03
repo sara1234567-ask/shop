@@ -9,6 +9,7 @@
 - Добавление и удаление товаров из корзины
 - Подсчет общей суммы
 - Навигация между страницами (Products, Cart, Auth, Profile)
+- Скриншоты в src 'screenshots'
 
 ## Использовались 
 - React
@@ -16,3 +17,4 @@
 - React Router
 - Vite
 - TailwindCSS
+
